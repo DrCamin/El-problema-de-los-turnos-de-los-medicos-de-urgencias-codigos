@@ -12,3 +12,5 @@ En él, se encuentran:
   - Solutions_to_excel.ipynb: Contiene el código en Python mencionado al inicio de la sección 5. Al ejecutarse, este código toma el archivo
     .lst que ofrecen las ejecuciones de los programas anteriores como solución, y devuelve un archivo de Excel con la planificación de la
     solución desarrollada y una tabla con datos acerca del reparto.
+
+Los cuatro primeros ficheros se encuentran en el directorio /main/GAMS_codes,  mientras que el último se encuentra en el directorio /main/Python_notebook.
